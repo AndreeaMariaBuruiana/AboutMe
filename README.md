@@ -46,13 +46,7 @@
 
 ## 🚀 featured projects
 
-<div align="center">
 
-<a href="https://github.com/AndreeaMariaBuruiana/ToyLanguageInterpreter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreeaMariaBuruiana&repo=ToyLanguageInterpreter&hide_border=true&title_color=8fad88&icon_color=8fad88&text_color=5a7a55&bg_color=f5f0e8" />
-</a>
-
-</div>
 
 <br/>
 
