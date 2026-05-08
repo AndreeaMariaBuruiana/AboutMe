@@ -10,7 +10,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8fad88?logo=linkedin&logoColor=f5f0e8&style=for-the-badge)](https://www.linkedin.com/in/andreea-maria-buruiana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8fad88?logo=linkedin&logoColor=f5f0e8&style=for-the-badge)]([https://www.linkedin.com/in/andreea-maria-buruiana](https://www.linkedin.com/in/andreea-b-b0a549244/)
 [![Email](https://img.shields.io/badge/Email-8fad88?logo=gmail&logoColor=f5f0e8&style=for-the-badge)](mailto:buruiana.andreea07@gmail.com)
 
 </div>
